@@ -4,7 +4,8 @@ description: Analyze fragmented systems, tools, or processes and develop a unifi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3661
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - consolidation-strategy
 - writing
